@@ -1,4 +1,4 @@
-# EX.NO-3-RAILWAY-RESERVATION-SYSTEM
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
 To develop the Online Ticket Reservation System using Star UML tool.
